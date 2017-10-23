@@ -1,8 +1,9 @@
 #include <iostream>
 #include "common.h"
 
+using namespace std;
+
 int main(int argc, char * argv[]){
-  std::cout << "Hello world!!!" << std::endl;
-  int k = 0;
+  cout << "Hello world!!!" << endl;
   return 0;
 }
